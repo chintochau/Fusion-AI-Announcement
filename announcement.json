@@ -1,4 +1,4 @@
 {
-  "message": "Welcome to our website! Check out our latest updates.",
+  "message": "Welcome to Fusion AI Demo! We currently only support uploading video/audio within 5 mins. summary performs best for English, and within 5 mins video length with current model(GPT3.5),  GPT 4 option will be provided soon",
   "visible": true
 }
